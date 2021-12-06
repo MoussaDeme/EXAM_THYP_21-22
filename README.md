@@ -1,3 +1,3 @@
-# THYP_6_dec_Deme
+# Examen THYP du 6 décembre 2021
 
 Moussa DEME
