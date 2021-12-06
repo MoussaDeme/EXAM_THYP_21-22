@@ -6,9 +6,9 @@
 @prefix o: <http://omeka.org/s/vocabs/o#> .
 @prefix ma: <http://www.w3.org/ns/ma-ont#>.
 @prefix mo: <http://purl.org/ontology/mo#>..
-@prefix news: <https://github.com/MoussaDeme/EXAM_THYP_21-22/blob/master/onto.ttl#> .
+@prefix news: <https://github.com/MoussaDeme/EXAM_THYP_21-22/blob/master/vocab.ttl#> .
 
-<https://github.com/MoussaDeme/THYP_21-22/blob/master/onto/onto.ttl#> a owl:Ontology ;
+<https://github.com/MoussaDeme/EXAM_THYP_21-22/blob/master/vocab.ttl#> a owl:Ontology ;
     dcterms:title "News" .
 
 news:Personne a rdfs:Class ;
