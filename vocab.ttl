@@ -5,7 +5,6 @@
 @prefix vs: <http://www.w3.org/2003/06/sw-vocab-status/ns#> .
 @prefix o: <http://omeka.org/s/vocabs/o#> .
 @prefix ma: <http://www.w3.org/ns/ma-ont#>.
-@prefix mo: <http://purl.org/ontology/mo#>..
 @prefix news: <https://github.com/MoussaDeme/EXAM_THYP_21-22/blob/master/vocab.ttl#> .
 
 <https://github.com/MoussaDeme/EXAM_THYP_21-22/blob/master/vocab.ttl#> a owl:Ontology ;
